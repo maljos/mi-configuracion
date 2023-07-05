@@ -18,6 +18,6 @@ Dependencias para los scripts:
 - Directorio de polybar contiene los archivos de configuración de mi barra de estatus. requiere tener instalado cava ya que visualizo el esqualizador en la barra. Los archivos de fonts utilizados están descritos en el archivo config.
 
 Pantallas:
-- ![01](https://github.com/maljos/mi-configuracion/assets/3738917/72a017d7-dd0f-46e1-a0f7-fe0ff772a760)
+![01](https://github.com/maljos/mi-configuracion/assets/3738917/72a017d7-dd0f-46e1-a0f7-fe0ff772a760)
 ![02](https://github.com/maljos/mi-configuracion/assets/3738917/768bfad8-bec5-4dd1-943a-d647ebc561c5)
 ![03](https://github.com/maljos/mi-configuracion/assets/3738917/bda3744c-91b9-416e-b657-215ec3c7bde0)
