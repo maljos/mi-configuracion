@@ -20,3 +20,4 @@ Dependencias para los scripts:
 Pantallas:
 - ![01](https://github.com/maljos/mi-configuracion/assets/3738917/72a017d7-dd0f-46e1-a0f7-fe0ff772a760)
 ![02](https://github.com/maljos/mi-configuracion/assets/3738917/768bfad8-bec5-4dd1-943a-d647ebc561c5)
+![03](https://github.com/maljos/mi-configuracion/assets/3738917/bda3744c-91b9-416e-b657-215ec3c7bde0)
