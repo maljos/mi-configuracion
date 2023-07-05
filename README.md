@@ -45,6 +45,6 @@ OS: manjaro
 
 **Pantallas (Screen):**  
 
-![01](https://github.com/maljos/mi-configuracion/assets/3738917/72a017d7-dd0f-46e1-a0f7-fe0ff772a760)
-![02](https://github.com/maljos/mi-configuracion/assets/3738917/768bfad8-bec5-4dd1-943a-d647ebc561c5)
-![03](https://github.com/maljos/mi-configuracion/assets/3738917/bda3744c-91b9-416e-b657-215ec3c7bde0)
+![01](https://github.com/maljos/mi-configuracion/assets/3738917/f7b8447a-b15f-4d07-89b1-e41e6524b2e8)
+![02](https://github.com/maljos/mi-configuracion/assets/3738917/5625e83c-3868-4707-8bed-96efa06f5b6e)
+![03](https://github.com/maljos/mi-configuracion/assets/3738917/f335758b-5b3d-4089-9b5e-f0c98795d883)
