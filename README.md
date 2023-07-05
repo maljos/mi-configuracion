@@ -16,7 +16,7 @@ Dependencias para los scripts:
 
 - config mi archivo de configuración de i3
 
-- Directorio de polybar contiene los archivos de configuración de mi barra de estatus. requiere tener instalado cava ya que visualizo el esqualizador en la barra. Los archivos de fonts utilizados están descritos en el archivo config.
+- Directorio de polybar: Contiene los archivos de configuración de mi barra de estatus. requiere tener instalado cava ya que visualizo el esqualizador en la barra. Los archivos de fonts utilizados están descritos en el archivo config.
 
 
 # My Setup Linux
@@ -33,7 +33,7 @@ Dependencies for the scripts: - xdotools - wxmessage
 
     config my i3 configuration file
 
-    Polybar directory contains the configuration files for my status bar. it requires cava to be installed as I display the schalizer on the bar. The font files used are described in the config file.
+    Polybar directory: Contains the configuration files for my status bar. it requires cava to be installed as I display the schalizer on the bar. The font files used are described in the config file.
     
 - Wallpaper: https://www.wallpaperflare.com/digital-digital-art-artwork-oriental-asian-asian-architecture-wallpaper-gjwxi
 
