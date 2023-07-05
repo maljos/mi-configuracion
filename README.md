@@ -1,5 +1,5 @@
-# Mi Configuracion (Esp)
-#-------------------
+# <p>Mi Configuracion (Esp)</p>
+
 Mis archivos de configuración de mi equipo en i3-wm
 SO: manjaro
 
